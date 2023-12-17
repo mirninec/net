@@ -1,3 +1,7 @@
+/*
+ * Вывод списка всех файлов в каталоге
+ */
+
 #include <apue.h>
 #include "apue.c"
 #include <dirent.h>
